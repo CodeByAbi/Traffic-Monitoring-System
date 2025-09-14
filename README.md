@@ -1,12 +1,8 @@
-<p align="center">???
+<p align="center">
     <b>
         <h1 align="center">Traffic Monitoring using YOLOv8 and DeepSORT</h1>
     </b>
 </p>
-<p align="center">
-<a href="https://github.com/Hassi34/traffic-monitoring-yolov8">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&c=g&size=18&duration=3000&pause=6000&multiline=True&center=true&width=800&height=40&lines=Vehicle tracking, counting and speed estimation using Vision AI" alt="Typing SVG" />
-</a>
 </p>
 <p align="center">
 <a href="https://github.com/Hassi34/traffic-monitoring-yolov8">
